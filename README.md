@@ -102,7 +102,7 @@ https://maldevacademy.com/
 
 Este proyecto es estrictamente con fines educativos. El uso ofensivo en entornos no autorizados es ilegal y responsabilidad del usuario.
 
-## falta completar 
+## Falta completar 
 - loader.c
 - stages
 - posibles mejoras en una compilacion o inyeccion por secuencia.
