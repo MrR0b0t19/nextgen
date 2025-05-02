@@ -1,0 +1,11 @@
+{
+    "compiler_windows": "x86_64-w64-mingw32-gcc",
+    "compiler_linux": "gcc",
+    "xor_key": "NEXTGEN2025",
+    "aes_key": "0123456789ABCDEF0123456789ABCDEF",
+    "aes_iv": "ABCDEF0123456789",
+    "payload_input_dir": "data/shellcode",
+    "payload_output_dir": "data/encrypted",
+    "executable_output_dir": "data/output"
+  }
+  
