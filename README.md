@@ -76,6 +76,9 @@ python3 nextgen.py
 7. Usa [7] para lanzar el loader con un PPID falso
 8. Usa [8] si quieres evitar AMSI, ETW y debuggers
 
+![image](https://github.com/user-attachments/assets/b68a29f7-c3f8-44b0-ac12-c86231f76aa6)
+
+
 ## Recomendaciones
 Antes de cifrar el payload tienes que crearlo:
 
