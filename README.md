@@ -1,14 +1,14 @@
 
 # NextGen APT Framework
 
-NextGen es un proyecto ofensivo desarrollado en Python para automatizar la creación de cadenas de ejecución estilo APT (Advanced Persistent Threat). Nació como una respuesta a la necesidad de integrar múltiples técnicas avanzadas aprendidas en laboratorios de HTB Academy, retos de evasión, y el curso **Certified Red Team Operator (CRTO)**, en un solo entorno modular, escalable y realista.
+NextGen es un proyecto ofensivo desarrollado en Python para automatizar la creación de cadenas de ejecución estilo APT (Advanced Persistent Threat). Nació como una respuesta a la necesidad de integrar múltiples técnicas avanzadas aprendidas en laboratorios de HTB Academy, retos de evasión, y el curso **Certified Red Team Operator (CRTO)**, en un solo entorno modular, escalable y realista, uniendo C con Python.
 
 El objetivo es crear una herramienta profesional para construir malware personalizado, evasivo, y técnicamente sólido, que aplique en escenarios reales de red team, simulación de amenazas, y estudios ofensivos controlados.
 
 ---
 
 ## Motivación
-
+Sinceramente estoy buscando mejorar algunas tecnicas para un futuro obtener el OSCE3
 Durante el estudio del CRTO y HTB, surgió la necesidad de:
 
 - Generar loaders que no dependan de AV-detectables como `LoadLibrary`.
